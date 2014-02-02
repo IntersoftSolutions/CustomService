@@ -1,0 +1,11 @@
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/CustomService.Core.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.Linq.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/CrosslightAppiOS.exe
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/Intersoft.Crosslight.iOS.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/Intersoft.Crosslight.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Support/CustomService/CustomService/CustomService.iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll

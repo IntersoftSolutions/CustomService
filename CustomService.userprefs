@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomService/CustomService.iOS/Custom/CustomiOSService.cs">
+    <Files>
+      <File FileName="CustomService/CustomService.Core/ViewModels/SimpleViewModel.cs" Line="75" Column="65" />
+      <File FileName="CustomService/CustomService.iOS/Custom/CustomiOSService.cs" Line="11" Column="10" />
+      <File FileName="CustomService/CustomService.iOS/Infrastructure/AppInitializer.cs" Line="19" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomService.Android AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

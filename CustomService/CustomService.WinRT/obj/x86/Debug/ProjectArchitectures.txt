@@ -1,0 +1,1 @@
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\CustomService.WinRT.csproj;x86

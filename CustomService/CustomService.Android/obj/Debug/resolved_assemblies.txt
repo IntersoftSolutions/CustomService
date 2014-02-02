@@ -1,0 +1,4 @@
+/Users/nicholaslie/Desktop/CustomService/CustomService/CustomService.Android/bin/Debug/CustomService.Android.dll
+/Library/Intersoft Solutions/Crosslight/1.0/Intersoft.Crosslight.dll
+/Library/Intersoft Solutions/Crosslight/1.0/Intersoft.Crosslight.Android.dll
+/Users/nicholaslie/Desktop/CustomService/CustomService/CustomService.Core/bin/Debug/CustomService.Core.dll

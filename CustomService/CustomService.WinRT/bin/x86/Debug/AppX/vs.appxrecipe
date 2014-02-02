@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NICHOLASLIE0713</Machine>
+    <WindowsUser>nicholaslie</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <RegisteredManifestChecksum>472B78550D653853861D9BD0BEB66D35068294EA50CB19B5421A7484F344B882</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-02T02:47:18.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\CustomService.WinRT.exe">
+      <PackagePath>CustomService.WinRT.exe</PackagePath>
+      <Modified>2014-02-02T02:47:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\CustomService.WinRT.pdb">
+      <PackagePath>CustomService.WinRT.pdb</PackagePath>
+      <Modified>2014-02-02T02:47:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\bin\Debug\CustomService.Core.dll">
+      <PackagePath>CustomService.Core.dll</PackagePath>
+      <Modified>2014-02-02T02:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Intersoft Solutions\Crosslight\1.0\Intersoft.Crosslight.dll">
+      <PackagePath>Intersoft.Crosslight.dll</PackagePath>
+      <Modified>2014-01-29T10:47:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Intersoft Solutions\Crosslight\1.0\Intersoft.Crosslight.WinRT.dll">
+      <PackagePath>Intersoft.Crosslight.WinRT.dll</PackagePath>
+      <Modified>2014-01-15T13:34:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\bin\Debug\CustomService.Core.pdb">
+      <PackagePath>CustomService.Core.pdb</PackagePath>
+      <Modified>2014-02-02T02:40:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\Logo.scale-100.png">
+      <PackagePath>Assets\Images\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\Logo.scale-140.png">
+      <PackagePath>Assets\Images\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\Logo.scale-180.png">
+      <PackagePath>Assets\Images\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\Logo.scale-80.png">
+      <PackagePath>Assets\Images\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.scale-100.png">
+      <PackagePath>Assets\Images\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.scale-140.png">
+      <PackagePath>Assets\Images\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.scale-180.png">
+      <PackagePath>Assets\Images\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.scale-80.png">
+      <PackagePath>Assets\Images\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\Images\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\Images\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\Images\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\Images\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SplashScreen.scale-100.png">
+      <PackagePath>Assets\Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SplashScreen.scale-140.png">
+      <PackagePath>Assets\Images\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\SplashScreen.scale-180.png">
+      <PackagePath>Assets\Images\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\StoreLogo.scale-100.png">
+      <PackagePath>Assets\Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\StoreLogo.scale-140.png">
+      <PackagePath>Assets\Images\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\StoreLogo.scale-180.png">
+      <PackagePath>Assets\Images\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\WideLogo.scale-100.png">
+      <PackagePath>Assets\Images\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\WideLogo.scale-140.png">
+      <PackagePath>Assets\Images\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\WideLogo.scale-180.png">
+      <PackagePath>Assets\Images\WideLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Assets\Images\WideLogo.scale-80.png">
+      <PackagePath>Assets\Images\WideLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\Common\Readme.txt">
+      <PackagePath>Common\Readme.txt</PackagePath>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\Assets\Styles\AppStyles.xaml">
+      <PackagePath>Assets\Styles\AppStyles.xaml</PackagePath>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\Assets\Styles\StandardStyles.xaml">
+      <PackagePath>Assets\Styles\StandardStyles.xaml</PackagePath>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2014-01-27T15:16:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.WinRT\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-02T02:47:19.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

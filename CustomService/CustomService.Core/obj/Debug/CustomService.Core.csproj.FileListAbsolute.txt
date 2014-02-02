@@ -1,0 +1,6 @@
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\bin\Debug\CustomService.Core.dll
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\bin\Debug\CustomService.Core.pdb
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\bin\Debug\Intersoft.Crosslight.dll
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\obj\Debug\CustomService.Core.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\obj\Debug\CustomService.Core.dll
+\\psf\Home\Documents\hpv-tfs12\ComponentProjects\Support\CustomService\CustomService\CustomService.Core\obj\Debug\CustomService.Core.pdb
